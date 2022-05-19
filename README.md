@@ -1,3 +1,3 @@
-Blog Application Project
+Blog Application Projectt
 
 This project is just for learning purpose by creating blog application, specially for creating post by users, posting images,comments and so on...
